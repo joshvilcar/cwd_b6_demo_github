@@ -71,7 +71,7 @@ p{
     background: rgba(225, 225, 225, 0.1);
 }
 #hero {
-    background: url("../cwd_b6_demo_github/image/laptop.jpg") no-repeat center center/cover ;
+    background: url("../image/laptop.jpg") no-repeat center center/cover ;
     height: 600px;
 }
 #hero .hero-content {
@@ -134,7 +134,7 @@ p{
     color: #ffb740;
 }
 #testimonials {
-    background: url("../cwd_b6_demo_github/image/image1.jpg") no-repeat center center/cover;  
+    background: url("../image/image1.jpg") no-repeat center center/cover;  
     height: 600px; 
     overflow: hidden;
 }
